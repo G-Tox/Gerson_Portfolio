@@ -2,7 +2,7 @@
 
 
 ## [XYZ Investment Cab Industry](https://github.com/G-Tox/W2)
-* EDA, City Analysis, payment method analysis, seasonality analysis, income analysis, customer retention analysis.
+* EDA: City Analysis, payment method analysis, seasonality analysis, income analysis, customer retention analysis.
 * Created a tool that estimates rides profit.
 * Deployment of the model with Flask and Heroku.
 
